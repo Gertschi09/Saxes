@@ -6,7 +6,7 @@ The file "WavetableSAX_T41_AuSh_Saxa.ino" (the main loop) uses ideas and code-fr
 There are two kinds of fingering-tables: a simple one with 12 fingerings, repeatedly used for 3 octaves, and one with the original saxophone fingerings. The sax can be played as alto-sax, tenor-sax, C-sax or soprano-saxophone.  
 The OLED-display shows the played note's pitch, or the pressure of the applied wind, meassured by the pressure sensor.  
 There is a headphone output, a line-out, or one uses the loudspeekers of the sax.  
-It sounds quite well, is cheap to build (about 100 €). The only shortcomming is, that my sax has no legato (to difficult to code).  
+It sounds quite well, it is cheap to build (about 100 €). The only shortcomming is, that my sax has no legato (to difficult to code).  
 Special thanks to Paul Stoffregen (https://www.pjrc.com/) and his team for their fantastic microcontroller-boards and music shields!  
   
 This is a work in progress: I intend to add a menu for the OLED-display.  
